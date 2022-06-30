@@ -1,0 +1,4 @@
+#Wed Jun 29 09:33:47 ICT 2022
+base.0=D\:\\Users\\bsi80134\\Downloads\\Salza-App\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
